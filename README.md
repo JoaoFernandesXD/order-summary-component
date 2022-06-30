@@ -3,7 +3,7 @@
 
 # 💡 Desafio Front-end Mentor 
 
-#### Desafio Front-end Mentor, com isso desafio foi possivel treinar os conceitos de semantica e atribuições do css, projeto muito legal de se realizar. 
+#### Desafio Front-end Mentor, com esse desafio foi possivel treinar os conceitos de semantica HTML e atribuições do CSS, projeto muito legal de se realizar. 
 
 #Demo <a href="https://joaofernandesxd.github.io/order-summary-component/">Acessar</a>
 
